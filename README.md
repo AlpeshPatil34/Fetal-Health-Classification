@@ -1,2 +1,2 @@
 # Fetal-Health-Classification
-Classification of Fetal Health using MLL architectures
+Classification of Fetal Health using ML architectures
