@@ -1,5 +1,6 @@
 # Fetal-Health-Classification
 Classification of Fetal Health using ML Models
+test 
 
 # Heading 1
 ## Heading 2
@@ -20,6 +21,7 @@ Use `for` loop
 
 ```Python
 sns.distplot()
+hello world
 ```
 
 Tables:
@@ -90,7 +92,7 @@ I spotted outliers on our dataset. However, it is not quite a good idea to remov
 
 A basic rule of thumb for the outliers in question is:
 
-It is a measurement error or data entry error, correct the error if possible. If you can’t fix it, remove that observation. In our case, this is the outcome of a CTG report so it is unlikely that this was a data entry error.
+It is a measurement error or data entry error, correct the error if possible. If you canâ€™t fix it, remove that observation. In our case, this is the outcome of a CTG report so it is unlikely that this was a data entry error.
 
 If it is not a part of the population you are studying, you can legitimately remove the outlier. In this case, this all is about the fetus, and experts tag the classification. Let's stick with the expert opinion.
 
